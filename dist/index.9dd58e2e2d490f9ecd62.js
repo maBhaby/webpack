@@ -1,0 +1,1 @@
+!function(){const o=(o,l)=>o+l;console.log(o(4,5)),console.log(o(8,5)),console.log(o(8,5)),console.log(o(8,5))}();
