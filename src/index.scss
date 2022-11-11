@@ -1,0 +1,14 @@
+@import './style/var.scss';
+@import './style/style';
+
+body{
+    background-color: $bacl;
+    height: 100vh;
+    font-size: 31px;
+}
+
+.ara{
+    &__d{
+        color: red;
+    }
+}
